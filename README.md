@@ -5,5 +5,8 @@ My name is Elamin, and I am a junior at Emory University studying Data Science, 
 - 🔭 I’m currently working on Strides, building a webapp that allows users to unlock a map by traveling to the location.
 - 🌱 I’m recently built ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫📫 Let’s Connect:
+  - Email: elamin.elsayed@emory.edu
+  - GitHub[github.com/dreelamin]: github.com/dreelamin
+  - LinkedIn[https://www.linkedin.com/in/elamin-elsayed/]: https://www.linkedin.com/in/elamin-elsayed/
 
